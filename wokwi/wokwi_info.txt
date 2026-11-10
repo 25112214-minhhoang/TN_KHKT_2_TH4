@@ -1,0 +1,2 @@
+MÔ PHỎNG WOKWI TH4:
+- Thư mục chứa cấu hình mô phỏng ESP32 gửi dữ liệu JSON REST API và giao tiếp MQTT Broker qua hạ tầng mạng ảo Wokwi-GUEST.

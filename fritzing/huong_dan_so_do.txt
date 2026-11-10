@@ -1,0 +1,3 @@
+SƠ ĐỒ ĐẤU NỐI BÀI THỰC HÀNH 4 (TH4):
+- Đèn LED điều khiển qua MQTT/Node-RED nối vào chân GPIO14 của ESP32 qua điện trở 220 Ohm xuống đất (GND).
+- Các tác vụ REST API và MQTT Telemetry không yêu cầu đấu bổ sung phần cứng ngoài.
